@@ -63,17 +63,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Jeremy-Ortega&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&duration=3000&pause=2000&color=32B3FF&width=335&lines=Aspiring+Front-End+Developer%2C;Aspiring+Game+Dev%2C;Aspiring+UI%2FUX+Designer%2C;%22Taking+steps+one+at+a+time%22" alt="Typing SVG" /></a>
- I'm currently pursuing a four-year bachelor's degree in BSIS. I do digital art as a hobby as well as edit videos. I'm eager to learn new things and meet new people. 
-
-
--->
-
-
-
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Uqlzsam.Uqlzsam&"  />
+</div>
 
 
 
