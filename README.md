@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi I'm Jeremy 👋
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&pause=1000&width=435&lines=Hi+I'm+Jeremy+Ortega+;Aspiring+Front-End+Developer%2C;Game+Dev+and+Ui+%2F+UX+Designer.;%22Taking+steps+one+at+a+time%22." alt="Typing SVG" /></a>
+
+</div>
+
+
 
 <!--
 **Jeremy-Ortega/Jeremy-Ortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
