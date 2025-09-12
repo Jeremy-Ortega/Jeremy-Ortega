@@ -1,4 +1,4 @@
-![Header](./readme-header.png)
+![Header](./assets/github-header-banner.png)
 
 <!--# Hi I'm Jeremy Ortega 👋 -->
 <div align="center">
@@ -9,7 +9,7 @@
 
  I’m currently pursuing a Bachelor’s degree in Information Systems. In my free time, I enjoy creating digital art and editing videos. I’m always eager to learn new skills and connect with new people.
 
- Goal : 
+ 🎯 Goal 
  ---
 To be on a job field where I can translate my passion for art / designing into reality. Whether it may be in Ui/Ux , Concept Artist, Game Designer.
 
@@ -56,23 +56,35 @@ To be on a job field where I can translate my passion for art / designing into r
 </tr>
 </table>
 
+
+<details align="center">    
+  <summary> <samp> 🎨 Some Art illustrations
+</samp></summary>
+ 
 <table align="center">
 <tr>
  
  <tr> 
-  <td align="center">
- 🎨 Some Art illustrations
-  </td>
+
  </tr>
  
 <td align="center" width="50%">
- insert here
+<img src="assets/1.png" alt="Sample illustration 1" width="400"/>
+<img src="assets/2.png" alt="Sample illustration 2" width="400"/>
+<img src="assets/3.png" alt="Sample illustration 3" width="400"/>
+<img src="assets/4.png" alt="Sample illustration 4" width="400"/>
+<img src="assets/5.png" alt="Sample illustration 5" width="400"/>
+<img src="assets/6.png" alt="Sample illustration 6" width="400"/>
+<img src="assets/7.png" alt="Sample illustration 7" width="400"/>
+<img src="assets/8.png" alt="Sample illustration 8" width="400"/>
+
 </td>
 
 </tr>
 </table>
-<details align="center">    
-  <summary> <samp>&#9776; More</samp></summary>
+
+</samp>
+</details>
 
  ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jeremi_suuing/) 
@@ -80,15 +92,7 @@ To be on a job field where I can translate my passion for art / designing into r
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeremysortega@gmail.com) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jeremy.ortega.735944) 
 
-</samp>
-</details>
 
-
-
-
-
-
----
 ## 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=Jeremy-Ortega&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)</br>-->
 ![](https://nirzak-streak-stats.vercel.app/?user=Jeremy-Ortega&theme=prussian&hide_border=false)</br>
