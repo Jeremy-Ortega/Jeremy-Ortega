@@ -1,19 +1,31 @@
-# Hi I'm Jeremy Ortega 👋
+![Header](./readme-header.png)
+
+<!--# Hi I'm Jeremy Ortega 👋 -->
+<div align="center">
+ 
+  ## <i>" If you can imagine it, It can be drawn "</i>
+ 
+</div>
 
  I’m currently pursuing a Bachelor’s degree in Information Systems. In my free time, I enjoy creating digital art and editing videos. I’m always eager to learn new skills and connect with new people.
- 
+
+ Goal : 
+ ---
+To be on a job field where I can translate my passion for art / designing into reality. Whether it may be in Ui/Ux , Concept Artist, Game Designer.
+
+
 ---
 <table align="center">
 <tr>
  <tr> 
   <td align="center">
    
- 🛠️ Some tools I have learned
+ 🛠️ Tech tools
 
   </td>
   <td align="center">
    
- 📖 What I'm currently studying
+ 📖 Currently studying
 
   </td>
 
@@ -37,11 +49,6 @@
 </td>
 <td align="center" width="50%">
 
-Reach me via : 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
@@ -49,16 +56,41 @@ Reach me via :
 </tr>
 </table>
 
+<table align="center">
+<tr>
+ 
+ <tr> 
+  <td align="center">
+ 🎨 Some Art illustrations
+  </td>
+ </tr>
+ 
+<td align="center" width="50%">
+ insert here
+</td>
+
+</tr>
+</table>
+<details align="center">    
+  <summary> <samp>&#9776; More</samp></summary>
+
+ ## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jeremi_suuing/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](/https://www.linkedin.com/in/jeremy-ortega-a13a85300/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeremysortega@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jeremy.ortega.735944) 
+
+</samp>
+</details>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jeremi_suuing/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeremy-ortega-a13a85300/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeremysortega@gmail.com) 
+
 
 
 
 ---
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jeremy-Ortega&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)</br>
+<!--![](https://github-readme-stats.vercel.app/api?username=Jeremy-Ortega&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)</br>-->
 ![](https://nirzak-streak-stats.vercel.app/?user=Jeremy-Ortega&theme=prussian&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-Ortega&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
