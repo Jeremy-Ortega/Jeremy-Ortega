@@ -3,7 +3,7 @@
 <!--# Hi I'm Jeremy Ortega 👋 -->
 <div align="center">
  
-  ## <i>" If you can imagine it, It can be drawn "</i>
+  ## <i>" If you can imagine it, You can draw it "</i>
  
 </div>
 
